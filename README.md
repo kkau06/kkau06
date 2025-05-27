@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kauã Joel
+# 👨🏻‍💻 Kauã Joel
 
 **`Desenvolvedor FullStack`**
 
