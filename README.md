@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Kauã Joel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Kauã Joel, tenho 19 anos. Concluí o ensino médio no CPM, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UEPB. <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
